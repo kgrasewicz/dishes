@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dishes/static/css/main.e260e098.chunk.css",
+    "main.js": "/dishes/static/js/main.a1582b1a.chunk.js",
+    "main.js.map": "/dishes/static/js/main.a1582b1a.chunk.js.map",
+    "runtime-main.js": "/dishes/static/js/runtime-main.28c44ce7.js",
+    "runtime-main.js.map": "/dishes/static/js/runtime-main.28c44ce7.js.map",
+    "static/js/2.f2d22243.chunk.js": "/dishes/static/js/2.f2d22243.chunk.js",
+    "static/js/2.f2d22243.chunk.js.map": "/dishes/static/js/2.f2d22243.chunk.js.map",
+    "static/js/3.0da98813.chunk.js": "/dishes/static/js/3.0da98813.chunk.js",
+    "static/js/3.0da98813.chunk.js.map": "/dishes/static/js/3.0da98813.chunk.js.map",
+    "index.html": "/dishes/index.html",
+    "static/css/main.e260e098.chunk.css.map": "/dishes/static/css/main.e260e098.chunk.css.map",
+    "static/js/2.f2d22243.chunk.js.LICENSE.txt": "/dishes/static/js/2.f2d22243.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dishes/static/media/shape.75c3568a.svg",
+    "static/media/pizza.0b5667a2.svg": "/dishes/static/media/pizza.0b5667a2.svg",
+    "static/media/sandwich.a2ac82ac.svg": "/dishes/static/media/sandwich.a2ac82ac.svg",
+    "static/media/soup.d5e69f8a.svg": "/dishes/static/media/soup.d5e69f8a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28c44ce7.js",
+    "static/js/2.f2d22243.chunk.js",
+    "static/css/main.e260e098.chunk.css",
+    "static/js/main.a1582b1a.chunk.js"
+  ]
+}
