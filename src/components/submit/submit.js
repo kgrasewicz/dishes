@@ -1,8 +1,5 @@
 import { SubmissionError } from "redux-form";
-import ReactFOM from "react-dom";
 import axios from "axios";
-import reactDom from "react-dom";
-import { reset } from 'redux-form';
 
 
 
