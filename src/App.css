@@ -1,0 +1,57 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+html {
+  font-size: 13px;
+}
+
+button {
+  border-radius: 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+button:hover {
+  opacity: 0.8;
+}
+
+input:focus {
+  outline: none;
+}
+
+h1 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: calc(1.4rem + 0.5vw);
+  line-height: normal;
+}
+
+h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: calc(1rem + 0.5vw);
+  line-height: normal;
+  color: #353535;
+}
+
+h4 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: calc(0.8rem + 0.5vw);
+  line-height: normal;
+  color: #666666;
+}/*# sourceMappingURL=App.css.map */
